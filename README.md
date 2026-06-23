@@ -54,8 +54,4 @@ The project uses customer and transaction datasets containing:
 - Blue and Silver cards contributed the majority of transactions.
 - Texas, New York, and California contributed the highest revenue.
 
-## Files Included
 
-- `credit_card_dashboard.pbix` – Power BI Dashboard
-- `financial_dashboard_queries.sql` – SQL Queries
-- `README.md` – Project Documentation
